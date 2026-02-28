@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>nizami Mobile Shop</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    padding: 15px;
+}
+.product {
+    background: white;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.product img {
+    width: 100%;
+    border-radius: 10px;
+}
+.button {
+    display: inline-block;
+    padding: 10px 15px;
+    background: green;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+footer {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>nizami Mobile Shop</h1>
+    <p>Best Mobile Deals in Your City</p>
+</header>
+
+<div class="container">
+
+    <div class="product">
+        <h2>iPhone 13</h2>
+        <img src="https://via.placeholder.com/300x200" alt="iPhone 13">
+        <p>Price: ₹52,999</p>
+        <a class="button" href="https://wa.me/91XXXXXXXXXX">Order on WhatsApp</a>
+    </div>
+
+    <div class="product">
+        <h2>Samsung Galaxy S22</h2>
+        <img src="https://via.placeholder.com/300x200" alt="Samsung">
+        <p>Price: ₹39,999</p>
+        <a class="button" href="https://wa.me/+918853481839>Order on WhatsApp</a>
+    </div>
+
+</div>
+
+<footer>
+    <p>Contact: 918853481839"</p>
+</footer>
+
+</body>
+</html>
