@@ -59,14 +59,14 @@ footer {
 <div class="container">
 
     <div class="product">
-        <h2>iPhone 13</h2>
+        <h2>iPhone 17</h2>
         <img src="https://via.placeholder.com/300x200" alt="iPhone 13">
         <p>Price: ₹52,999</p>
         <a class="button" href="https://wa.me/91XXXXXXXXXX">Order on WhatsApp</a>
     </div>
 
     <div class="product">
-        <h2>Samsung Galaxy S22</h2>
+        <h2>Samsung Galaxy S25</h2>
         <img src="https://via.placeholder.com/300x200" alt="Samsung">
         <p>Price: ₹39,999</p>
         <a class="button" href="https://wa.me/+918853481839>Order on WhatsApp</a>
